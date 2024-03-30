@@ -28,7 +28,7 @@ class RandomNumberGenerator extends Component {
             className="generate-button"
             onClick={this.onGenerateRandomNumber}
           >
-            Generate
+            Generating
           </button>
           <p className="random-number">{randomNumber}</p>
         </div>
